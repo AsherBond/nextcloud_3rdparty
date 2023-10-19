@@ -3,7 +3,7 @@
         'name' => 'nextcloud/3rdparty',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '6e16075d122c7582527e2be7e365775f0b8e5f0c',
+        'reference' => 'b735a43181ab32f3d55783d7726589928db23745',
         'type' => 'library',
         'install_path' => __DIR__ . '/../',
         'aliases' => array(),
@@ -235,6 +235,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'kornrunner/blurhash' => array(
+            'pretty_version' => 'v1.2.2',
+            'version' => '1.2.2.0',
+            'reference' => 'bc8a4596cb0a49874f0158696a382ab3933fefe4',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../kornrunner/blurhash',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'laravel/serializable-closure' => array(
             'pretty_version' => 'v1.2.2',
             'version' => '1.2.2.0',
@@ -310,7 +319,7 @@
         'nextcloud/3rdparty' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '6e16075d122c7582527e2be7e365775f0b8e5f0c',
+            'reference' => 'b735a43181ab32f3d55783d7726589928db23745',
             'type' => 'library',
             'install_path' => __DIR__ . '/../',
             'aliases' => array(),
