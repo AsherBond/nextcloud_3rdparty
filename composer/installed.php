@@ -137,9 +137,9 @@
             'dev_requirement' => false,
         ),
         'fusonic/opengraph' => array(
-            'pretty_version' => 'v3.0.0',
-            'version' => '3.0.0.0',
-            'reference' => '2daa6dce84f23b1bb6d66bf03b3e9371c39cd378',
+            'pretty_version' => 'v3.1.0',
+            'version' => '3.1.0.0',
+            'reference' => '199fc2fb33a4b519e512fe33a0d2cb53455ae63c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../fusonic/opengraph',
             'aliases' => array(),
