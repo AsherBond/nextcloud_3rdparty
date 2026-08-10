@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "60ac218433a3dcf5a4a46a452bba3674",
+    "content-hash": "6396cd688c19613ee774ae3b13efa1e3",
     "packages": [
         {
             "name": "aws/aws-crt-php",
@@ -2858,21 +2858,21 @@
         },
         {
             "name": "php-opencloud/openstack",
-            "version": "v3.14.0",
+            "version": "v3.17.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-opencloud/openstack.git",
-                "reference": "b92ea5581ca91779b88f08b1b44e6ca880b34fc3"
+                "reference": "8b0aa946dc89f942c69d2968caedaa4d58201aa7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-opencloud/openstack/zipball/b92ea5581ca91779b88f08b1b44e6ca880b34fc3",
-                "reference": "b92ea5581ca91779b88f08b1b44e6ca880b34fc3",
+                "url": "https://api.github.com/repos/php-opencloud/openstack/zipball/8b0aa946dc89f942c69d2968caedaa4d58201aa7",
+                "reference": "8b0aa946dc89f942c69d2968caedaa4d58201aa7",
                 "shasum": ""
             },
             "require": {
-                "guzzlehttp/guzzle": "^7.0",
-                "guzzlehttp/psr7": ">=1.7",
+                "guzzlehttp/guzzle": "^7.5.1",
+                "guzzlehttp/psr7": "^1.9.1 || ^2.4.5",
                 "guzzlehttp/uri-template": "^0.2 || ^1.0",
                 "justinrainbow/json-schema": "^5.2 || ^6.0",
                 "php": "^7.2.5 || ^8.0"
@@ -2929,9 +2929,9 @@
             ],
             "support": {
                 "issues": "https://github.com/php-opencloud/openstack/issues",
-                "source": "https://github.com/php-opencloud/openstack/tree/v3.14.0"
+                "source": "https://github.com/php-opencloud/openstack/tree/v3.17.0"
             },
-            "time": "2025-05-30T09:26:42+00:00"
+            "time": "2026-06-01T14:33:34+00:00"
         },
         {
             "name": "phpseclib/phpseclib",
