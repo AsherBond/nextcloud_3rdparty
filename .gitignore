@@ -38,6 +38,7 @@ bin
 */**/CONTRIBUTING.md
 */**/SECURITY.md
 */**/RELEASE.md
+*/**/AGENTS.md
 # ignore codestyle tools config
 */*/psalm.xml
 */*/psalm.xml.license

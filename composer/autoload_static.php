@@ -2137,6 +2137,7 @@ class ComposerStaticInit2f23f73bc0cc116b4b1eee1521aa8652
         'OpenStack\\Compute\\v2\\Models\\Limit' => __DIR__ . '/..' . '/php-opencloud/openstack/src/Compute/v2/Models/Limit.php',
         'OpenStack\\Compute\\v2\\Models\\QuotaSet' => __DIR__ . '/..' . '/php-opencloud/openstack/src/Compute/v2/Models/QuotaSet.php',
         'OpenStack\\Compute\\v2\\Models\\Server' => __DIR__ . '/..' . '/php-opencloud/openstack/src/Compute/v2/Models/Server.php',
+        'OpenStack\\Compute\\v2\\Models\\ServerGroup' => __DIR__ . '/..' . '/php-opencloud/openstack/src/Compute/v2/Models/ServerGroup.php',
         'OpenStack\\Compute\\v2\\Params' => __DIR__ . '/..' . '/php-opencloud/openstack/src/Compute/v2/Params.php',
         'OpenStack\\Compute\\v2\\Service' => __DIR__ . '/..' . '/php-opencloud/openstack/src/Compute/v2/Service.php',
         'OpenStack\\Identity\\v2\\Api' => __DIR__ . '/..' . '/php-opencloud/openstack/src/Identity/v2/Api.php',

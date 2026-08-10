@@ -425,9 +425,9 @@
             'dev_requirement' => false,
         ),
         'php-opencloud/openstack' => array(
-            'pretty_version' => 'v3.14.0',
-            'version' => '3.14.0.0',
-            'reference' => 'b92ea5581ca91779b88f08b1b44e6ca880b34fc3',
+            'pretty_version' => 'v3.17.0',
+            'version' => '3.17.0.0',
+            'reference' => '8b0aa946dc89f942c69d2968caedaa4d58201aa7',
             'type' => 'library',
             'install_path' => __DIR__ . '/../php-opencloud/openstack',
             'aliases' => array(),

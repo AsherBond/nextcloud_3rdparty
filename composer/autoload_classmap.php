@@ -1582,6 +1582,7 @@ return array(
     'OpenStack\\Compute\\v2\\Models\\Limit' => $vendorDir . '/php-opencloud/openstack/src/Compute/v2/Models/Limit.php',
     'OpenStack\\Compute\\v2\\Models\\QuotaSet' => $vendorDir . '/php-opencloud/openstack/src/Compute/v2/Models/QuotaSet.php',
     'OpenStack\\Compute\\v2\\Models\\Server' => $vendorDir . '/php-opencloud/openstack/src/Compute/v2/Models/Server.php',
+    'OpenStack\\Compute\\v2\\Models\\ServerGroup' => $vendorDir . '/php-opencloud/openstack/src/Compute/v2/Models/ServerGroup.php',
     'OpenStack\\Compute\\v2\\Params' => $vendorDir . '/php-opencloud/openstack/src/Compute/v2/Params.php',
     'OpenStack\\Compute\\v2\\Service' => $vendorDir . '/php-opencloud/openstack/src/Compute/v2/Service.php',
     'OpenStack\\Identity\\v2\\Api' => $vendorDir . '/php-opencloud/openstack/src/Identity/v2/Api.php',
